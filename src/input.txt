@@ -1,25 +1,11 @@
-
-insert 111
-             insert 23
-
-insert 99
-insert         4
-
-isEmpty
-
-    insert     111
-
+insert "Shape_of_You" Ed_Sheeran 2017 3200000000 96 90
+insert "Blinding_Lights" The_Weeknd 2020 3500000000 85 92
+insert "Levitating" Dua_Lipa 2020 1900000000 103 95
+search "Shape_of_You"
+remove "Blinding_Lights"
 print
-
-
-search 9
-
-remove 23
-
-remove 4
-remove 999999
-isEmptyasfh
-print
-
-insert 123
-print
+insert "Save_Your_Tears" The_Weeknd 2021 2500000000 93 88
+ print
+ search "Levitating"
+ remove "Save_Your_Tears"
+ print
