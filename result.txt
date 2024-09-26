@@ -1,0 +1,11 @@
+Inserted: "Shape of You"
+Inserted: "Blinding Lights"
+Inserted: "Levitating"
+Found: Song{trackName='"Shape of You"', artistName='Ed Sheeran', releaseYear=2017, streams=3200000000, bpm=96, danceability=90}
+Removed: "Blinding Lights"
+Song{trackName='"Levitating"', artistName='Dua Lipa', releaseYear=2020, streams=1900000000, bpm=103, danceability=95} Song{trackName='"Shape of You"', artistName='Ed Sheeran', releaseYear=2017, streams=3200000000, bpm=96, danceability=90} Song{trackName='"Blinding Lights"', artistName='The Weeknd', releaseYear=2020, streams=3500000000, bpm=85, danceability=92}
+Inserted: "Save Your Tears"
+Song{trackName='"Levitating"', artistName='Dua Lipa', releaseYear=2020, streams=1900000000, bpm=103, danceability=95} Song{trackName='"Save Your Tears"', artistName='The Weeknd', releaseYear=2021, streams=2500000000, bpm=93, danceability=88} Song{trackName='"Shape of You"', artistName='Ed Sheeran', releaseYear=2017, streams=3200000000, bpm=96, danceability=90} Song{trackName='"Blinding Lights"', artistName='The Weeknd', releaseYear=2020, streams=3500000000, bpm=85, danceability=92}
+Found: Song{trackName='"Levitating"', artistName='Dua Lipa', releaseYear=2020, streams=1900000000, bpm=103, danceability=95}
+Removed: "Save Your Tears"
+Song{trackName='"Levitating"', artistName='Dua Lipa', releaseYear=2020, streams=1900000000, bpm=103, danceability=95} Song{trackName='"Save Your Tears"', artistName='The Weeknd', releaseYear=2021, streams=2500000000, bpm=93, danceability=88} Song{trackName='"Shape of You"', artistName='Ed Sheeran', releaseYear=2017, streams=3200000000, bpm=96, danceability=90} Song{trackName='"Blinding Lights"', artistName='The Weeknd', releaseYear=2020, streams=3500000000, bpm=85, danceability=92}
